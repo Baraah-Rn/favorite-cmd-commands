@@ -1,17 +1,21 @@
+
 # favorite-cmd-commands
 ```
-#git status
+## git status
+
 ```
-I use this command always to check the project changes 
+*** I use this command always to check the project changes ***
 
 ```
 ## git help
+
 ```
- This command always help me to find the exact command that I want  
+*** This command always help me to find the exact command that I want  ***
 
 
 ```
 ## git push
+
 ```
 *** That usually mean I finished my project and push it to the repository and I can now take a cup of coffee ***
 
