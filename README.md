@@ -1,6 +1,4 @@
 # favorite-cmd-commands
-
-# favorite-cmd-commands
 ```
 ## git status
 ```
