@@ -1,7 +1,7 @@
 # favorite-cmd-commands
-
+```
 #git status
-
+```
 I use this command always to check the project changes 
 
 ```
