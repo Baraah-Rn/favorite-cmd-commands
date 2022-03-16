@@ -11,7 +11,7 @@ I use this command always to check the project changes
 
 
 ```
-## git push
+### Other commands that I use:
 ```
 *** That usually mean I finished my project and push it to the repository and I can now take a cup of coffee ***
 
