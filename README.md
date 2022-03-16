@@ -2,12 +2,12 @@
 ```
 ## git status
 ```
-*** I use this command always to check the project changes ***
+I use this command always to check the project changes 
 
 ```
 ## git help
 ```
-*** This command always help me to find the exact command that I want  ***
+ This command always help me to find the exact command that I want  
 
 
 ```
